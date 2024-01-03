@@ -1,0 +1,7 @@
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\bin\Debug\pp3.exe.config
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\bin\Debug\pp3.exe
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\bin\Debug\pp3.pdb
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\obj\Debug\pp3.csproj.AssemblyReference.cache
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\obj\Debug\pp3.csproj.CoreCompileInputs.cache
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\obj\Debug\pp3.exe
+C:\Users\nishc\Documents\pratice project 3rd\pp3\pp3\obj\Debug\pp3.pdb
